@@ -1,7 +1,14 @@
 # Brixy-Mark--2
-Brixy Mark -2 is a web based functional Assistant Model to do web based searces and respond to the user with proper acuracy rate of 78%. <br>
-Brixy Mark -3 is made in an object oriented way, trained with tensorflow in python to respond to a wake word or hotword and respond to the user replying him with acurate answers or tasks. acuracy rate of 92%. <br>
-Brixy Mark -4 is an upgraded variant of Brixy Mark -3. <br>
+Brixy Mark -2 is a web based functional Assistant Model to do web based searches and respond to the user with proper acuracy rate of 78%. <br>
+More information about Brixy Mark-2 can be found at <a href="https://dexcorpsoftwareslimited.github.io/Project-Brixy">Project Brixy</a> <br>
 
-Go to : <a href="https://dexcorpsoftwareslimited.github.io/Project_Brixy">Home Page</a>
-Developer : <a href="https://facebook.com/mahfuzrahman0712">Facebook ID</a>
+Mark--2 is availabe at <a href="https://dexcorpsoftwareslimited.github.io/Brixy-Mark--2">Brixy Mark-2</a> <br>
+
+# See Other Variants 
+* <a href="https://dexcorpsoftwareslimited.github.io/Brixy-Mark--1">Brixy Mark-1</a>
+* <a href="https://dexcorpsoftwareslimited.github.io/Brixy-Mark--3">Brixy Mark-3</a>
+* <a href="https://dexcorpsoftwareslimited.github.io/Brixy-Mark--4">Brixy Mark-4</a>
+
+Go To : <a href="https://dexcorpsoftwareslimited.github.io/Project-Brixy">Home Page</a> <br>
+Developed by  : <a href="https://github.com/mahfuz0712">Mohammad Mahfuz Rahman</a>
+
